@@ -148,4 +148,4 @@ BTech CSE – 4th Semester
 
 # OUTPUT
 
-www.calendarbyjeu.netlify.app
+https://calendarbyjeu.netlify.app/
