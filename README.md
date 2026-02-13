@@ -1,5 +1,5 @@
 # Calendar – February 2026  
-Fundamentals of Web Design (FWD) Assignment  
+Fundamentals of Web Design (FWD) Assignment with localhost installation guide and netlify hosted site
 
 Submitted by **Jeu Machahary**  
 BTech CSE – 4th Semester  
@@ -150,3 +150,37 @@ Section - B
 # OUTPUT
 
 https://calendarbyjeu.netlify.app/
+
+---
+
+# Installation (Run Locally)
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/machahary07/calendar.git
+```
+
+### 2. Navigate into the Project Folder
+
+```bash
+cd calendar
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Run Development Server
+
+```bash
+npm run dev
+```
+
+Now open the local server link shown in your terminal (usually):
+
+```
+http://localhost:5173
+```
