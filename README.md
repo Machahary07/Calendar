@@ -3,6 +3,7 @@ Fundamentals of Web Design (FWD) Assignment
 
 Submitted by **Jeu Machahary**  
 BTech CSE – 4th Semester  
+Section - B
 
 ---
 
